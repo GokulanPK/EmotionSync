@@ -30,22 +30,30 @@ venv/: Virtual environment for dependencies.
 
 ## INSTALLATION:
 
-1.Clone the repository:
-2.Navigate to the project directory:
-3.Create and activate a virtual environment:
+1.Clone the repository
+
+2.Navigate to the project directory
+
+3.Create and activate a virtual environment
+
   python3 -m venv venv
-  source venv/bin/activate  # On Windows: venv\Scripts\activate
+  
+  source venv/bin/activate  
+  
 
 
 ## RUN THE APPLICATION:
 
 python app.py
+
 Open your browser and navigate to http://127.0.0.1:5000.
 
 ## USAGE:
 
 Launch the application by running the app.py script.
+
 Use the homepage (index.html) to upload emotion data.
+
 Access the results page (result.html) to view processed outputs and visualizations.
 
 
