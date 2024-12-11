@@ -3,14 +3,20 @@
 EmotionSync is a Python-based web application that analyzes and processes emotional data. It provides a user-friendly interface to interact with emotion-related datasets and visualize results dynamically.
 
 DESCRIPTION:
+
 EmotionSync is designed to process and analyze emotional data using a web-based interface. Built on Flask, it allows users to upload datasets, visualize emotional patterns, and access intuitive results pages.
 
 PROJECT STRUCTURE:
+
 EmotionSync/
-|-- app.py              # Main application script
-|-- templates/          # HTML templates for the web interface
-|   |-- index.html      # Homepage template
-|   |-- result.html     # Results page template
+
+app.py              # Main application script
+
+templates/          # HTML templates for the web interface
+
+ index.html      # Homepage template
+
+ result.html     # Results page template
 |-- static/             # Static files (CSS, data, images)
 |   |-- css/            # CSS stylesheets
 |   |-- data/           # Data files
