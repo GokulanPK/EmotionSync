@@ -9,14 +9,23 @@ EmotionSync is designed to process and analyze emotional data using a web-based 
 ## PROJECT STRUCTURE:
 
 EmotionSync/
+
 app.py: Main application script.
+
 templates/: HTML templates for the web interface.
+
 index.html: Homepage template.
+
 result.html: Results page template.
+
 static/: Static files (CSS, data, images).
+
 css/: CSS stylesheets.
+
 data/: Data files.
+
 images/: Images used in the application.
+
 venv/: Virtual environment for dependencies.
 
 ## INSTALLATION:
